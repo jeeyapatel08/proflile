@@ -1,0 +1,206 @@
+/*https://colorhunt.co/palette/d3dedc92a9bd7c99acffefef
+font: Patrick hand, Jost
+font-family: 'Jost', sans-serif;
+font-family: 'Patrick Hand', cursive;*/
+
+body
+{
+  background-color: #D3DEDC;
+  text-align: center;
+  margin:0;
+}
+
+.top-container
+{
+  background-color: #92A9BD;
+  position: fixed;
+  top:0px;
+  left:0px;
+  width: 100%;
+}
+
+.top-cloud
+{
+  width: 200px;
+  height: 100px;
+  position: absolute;
+  top: 15px;
+  right:200px;
+}
+
+h1
+{
+  font-family: 'Patrick Hand', cursive;
+  font-size: 50px;
+  color: #FFEFEF;
+}
+
+h3
+{
+  font-family: 'Jost', sans-serif;
+  font-weight: 900;
+  font-size: 1.5em;
+  color: #FFEFEF;
+}
+
+span
+{
+  text-decoration: underline;
+}
+
+.center-image
+{
+  width:50%;
+  height:50%;
+  margin-top: 200px;
+}
+
+hr
+{
+  width:30%;
+  border: 4px dashed #7C99AC;
+  border-bottom: none;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.mid-cloud
+{
+  width:15%;
+  height:15%;
+  position: relative;
+  top:50px;
+  right: 300px;
+  margin-top: 100px;
+  z-index: -1;
+}
+
+.selfie
+{
+  padding: 50px;
+  width: 15%;
+  height: 15%;
+}
+
+h2
+{
+  font-family: 'Jost', sans-serif;
+  font-weight: 900;
+  font-size: 1.75em;
+  color: #7C99AC;
+}
+
+p
+{
+  font-family: 'Jost', sans-serif;
+  font-weight: 400;
+  font-size: 1.25em;
+  color: #000000;
+}
+
+.fleft
+{
+  height:15%;
+  width:15%;
+  float:left;
+}
+
+.fright
+{
+  height:15%;
+  width:15%;
+  float:right;
+}
+
+.smalltab
+{
+  width:30%;
+  margin: 40px auto 40px auto;
+}
+
+.phead
+{
+  text-align: left;
+  font-weight: 500;
+  text-decoration: underline;
+  margin-left: 100px;
+}
+
+.pfloat
+{
+  text-align: left;
+  font-weight: 500;
+  margin-left: 100px;
+  line-height: 1.5;
+}
+
+.footer
+{
+  background-color: #92A9BD;
+  max-width:100%;
+  height: 75px;
+  padding: 50px;
+
+}
+
+.copy
+{
+  color:#FFEFEF;
+  font-size: 0.75em;
+}
+
+textarea {
+  width: 40%;
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  font-size: 16px;
+  resize: none;
+}
+
+.btn
+{
+  background-color: #92A9BD;
+  border: none;
+  color: #FFEFEF;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.btn:hover
+{
+  background-color: #92A9BDAA;
+
+}
+
+a:link {
+  color: #FFEFEF;
+  font-family: 'Jost', sans-serif;
+  font-weight: 400;
+  font-size: 1.25em;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+
+a:visited {
+  color: #FFEFEFAA;
+}
+
+
+a:hover {
+  color: #FFEFEF66;
+}
+
+a:active
+{
+  color: #FFEFEF00;
+}
